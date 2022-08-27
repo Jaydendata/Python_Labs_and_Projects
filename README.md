@@ -1,2 +1,2 @@
 # Python_Projects
-Codes written for Data analytic projects
+Python codes written as a part of Data analytic project
